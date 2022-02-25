@@ -4,10 +4,7 @@
   "private": false,
   "scripts": {
     "c": "git add . && git cz",
-    "cp": "git add . && git cz && lerna publish --force-publish *"
-  },
-  "devDependencies": {
-    "lerna": "^4.0.0"
+    "cp": "git add . && git cz && git push"
   },
   "config": {
     "commitizen": {

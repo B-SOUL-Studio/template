@@ -4,7 +4,7 @@
   "private": false,
   "scripts": {
     "c": "git add . && git cz",
-    "cp": "git add . && git cz && lerna publish"
+    "cp": "git add . && git cz && lerna publish --force-publish *"
   },
   "devDependencies": {
     "lerna": "^4.0.0"

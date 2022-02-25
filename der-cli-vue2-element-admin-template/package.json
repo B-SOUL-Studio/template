@@ -1,0 +1,16 @@
+{
+  "name": "@der-cli/vue2-element-admin-template",
+  "version": "0.0.7",
+  "description": "der-cli vue2 element admin template",
+  "main": "index.js",
+  "keywords": [],
+  "homepage": "",
+  "files": [
+    "template"
+  ],
+  "author": "song <3224266014@qq.com>",
+  "license": "GPL",
+  "publishConfig": {
+    "access": "public"
+  }
+}

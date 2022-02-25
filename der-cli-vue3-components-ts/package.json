@@ -1,0 +1,15 @@
+{
+  "name": "@der-cli/vue3-ts-components-template",
+  "version": "1.0.7",
+  "description": "通用vue3-ts模板",
+  "keywords": [],
+  "homepage": "",
+  "files": [
+    "template"
+  ],
+  "author": "song <3224266014@qq.com>",
+  "license": "GPL",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@der-cli/vue3-js-components-template",
+  "version": "1.0.0",
+  "description": "通用vue3-js模板",
+  "main": "index.js",
+  "keywords": [],
+  "homepage": "",
+  "files": [
+    "template"
+  ],
+  "author": "song <3224266014@qq.com>",
+  "license": "GPL",
+  "publishConfig": {
+    "access": "public"
+  }
+}

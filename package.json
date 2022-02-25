@@ -1,0 +1,21 @@
+{
+  "name": "der-cli-template",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {
+    "c": "git add . && git cz",
+    "cp": "git add . && git cz && lerna publish"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-customizable"
+    }
+  },
+  "dependencies": {
+    "cz-customizable": "^6.3.0"
+  },
+  "license": "GPL"
+}

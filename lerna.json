@@ -1,0 +1,10 @@
+{
+  "packages": [
+    "der-cli-vue2-element-admin-template/*",
+    "der-cli-vue2-standard-template/*",
+    "der-cli-vue3-components/*",
+    "der-cli-vue3-components-ts/*",
+    "der-cli-vue3-standard-template/*"
+  ],
+  "version": "0.0.8"
+}

@@ -1,7 +1,7 @@
 {
-  "name": "@der-cli/quick-start-vue3-template",
-  "version": "0.0.2",
-  "description": "der-cli Quick Start vue3 template",
+  "name": "@der-cli/react-standard-template-vite-ts",
+  "version": "0.0.1",
+  "description": "der-cli React vite ts standard template",
   "main": "index.js",
   "keywords": [],
   "homepage": "",

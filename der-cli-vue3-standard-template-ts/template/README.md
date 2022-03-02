@@ -1,4 +1,4 @@
-# tpl
+# template
 
 ## Project setup
 ```

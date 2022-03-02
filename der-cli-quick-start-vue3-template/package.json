@@ -1,0 +1,19 @@
+{
+  "name": "@der-cli/quick-start-vue3-template",
+  "version": "0.0.2",
+  "description": "der-cli Quick Start vue3 template",
+  "main": "index.js",
+  "keywords": [],
+  "homepage": "",
+  "files": [
+    "template"
+  ],
+  "scripts": {
+    "cp": "git add . && git commit -m \"update\" && git push && npm publish"
+  },
+  "author": "song <3224266014@qq.com>",
+  "license": "GPL",
+  "publishConfig": {
+    "access": "public"
+  }
+}

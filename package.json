@@ -4,7 +4,7 @@
   "private": false,
   "scripts": {
     "c": "git add . && git cz",
-    "cp": "git add . && git cz && git push",
+    "cp": "git add . && git cz && git push --set-upstream origin master",
     "build": "echo \"der run build\" && exit 1"
   },
   "config": {
